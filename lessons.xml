@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<lessons>
+	<category id="item0" file="lessons/RxCEL CompetenceAssessment.swf">
+		<lesson title="RxCEL Competence Assessment" scene="RxCEL Competence Assessment">
+			<text id="s1a1">
+				<![CDATA[Welcome to the RxCEL Competence Assessment online tutorial. 
+				]]>
+			</text>
+			<text id="s1a2">
+				<![CDATA[As part of the RxCEL Competence Program, competence assessment helps you evaluate your knowledge and skills in core competencies. In preparing for your competence assessment, you might be wondering "which assessment option is right for me?" or you might have questions about an assessment option. Perhaps you simply want a refresher in completing the required forms.
+				]]>
+			</text>
+			<text id="s1a3">
+				<![CDATA[This tutorial fully describes the two assessment options of Professional Portfolio and Knowledge Assessment, and helps you decide which option is best for you.
+				]]>
+			</text>
+			<text id="s1a4">
+				<![CDATA[Review the entire tutorial or, using the menu links on the left, skip to sections within the tutorial.
+				]]>
+			</text>
+			<text id="s1a5">
+				<![CDATA[It takes approximately 60 minutes to complete the tutorial. If you need to leave partway through, use the menu links to continue where you left off.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Purpose of RxCEL Competence Program" scene="Purpose of Program">
+			<text id="s1b1">
+				<![CDATA[The Alberta College of Pharmacists is committed to supporting the ongoing competence of licensed pharmacists in Alberta. The RxCEL Competence Program offers tools to help pharmacists maintain and improve their knowledge, skills, and abilities&mdash;for excellence in their pharmacy practice.
+				]]>
+			</text>
+			<text id="s1b2">
+				<![CDATA[The Health Professions Act mandates that competence programs for health professionals support them to maintain competence and enhance the provision of professional services. And according to the International Pharmaceutical Federation, "Maintaining competence throughout a career, during which new and challenging professional responsibilities will be encountered, is a fundamental ethical requirement for all health professionals."
+				]]>
+			</text>
+			<text id="s1b3">
+				<![CDATA[The competence program helps to fulfill ACP's mission to govern the pharmacy profession in Alberta to support and protect the public's health and well-being. It also helps pharmacists fulfill their professional obligation to maintain competence throughout their careers.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Principles of RxCEL Competence Program" scene="Principles of Program">
+			<text id="s1c1">
+				<![CDATA[The RxCEL Competence Program embodies the principles of:
+- fair and valid assessment mechanisms
+- transparent processes
+- ongoing program review and enhancement
+- confidentiality
+- and tools that are applicable to all practice settings and the evolving role and scope of pharmacist practice, which ensures the tools are relevant to the individual pharmacist 
+				]]>
+			</text>
+		</lesson>
+		<lesson title="Where Continuing Professional Development Fits" scene="Where CPD Fits">
+			<text id="s1d1">
+				<![CDATA[Relevant and quality continuing professional development is the foundation for a professional's ongoing competence. 
+				]]>
+			</text>
+			<text id="s1d2">
+				<![CDATA[The competence <b>program</b> establishes critical links between the continuing education efforts of pharmacists, maintenance of competence, and practice improvement. The program consists of two branches: Continuing Professional Development, or CPD, and Competence Assessment.
+				]]>
+			</text>
+			<text id="s1d3">
+				<![CDATA[ACP has developed the Continuing Professional Development Plan to give you a structured approach to your CPD.
+				]]>
+			</text>
+			<text id="s1d4">
+				<![CDATA[The CPD Plan supports your ongoing professional development with four components: self-assessment; learning plan; learning activities; and evaluation.
+				]]>
+			</text>
+			<text id="s1d5">
+				<![CDATA[Together these four components, plus their supporting documentation, make up a pharmacist's RxCEL Learning Portfolio.
+				]]>
+			</text>
+			<text id="s1d6">
+				<![CDATA[The tools in Competence Assessment align with the tools in Continuing Professional Development. And mandatory continuing education is the link between CPD and Competence Assessment.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Where Competence Assessment Fits" scene="Where CA Fits">
+			<text id="s1e1">
+				<![CDATA[The College acknowledges the diversity of Alberta pharmacists and their practices. Competence Assessment helps each pharmacist assess, develop, and maintain his or her own knowledge and skills in core competencies. To do this, the College provides two different assessment tools: the Knowledge Assessment and the Professional Portfolio.
+				]]>
+			</text>
+			<text id="s1e2">
+				<![CDATA[This tutorial focuses on the competence assessment branch, and explains how to choose the appropriate assessment tool for you and the requirements for each one.
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item1" file="lessons/CompetenceAssessment.swf">
+		<lesson title="Competence Assessment" scene="Competence Assessment">
+			<text id="s2a1">
+				<![CDATA[According to the Health Professions Act, competence means the combined knowledge, skills, attitudes, and judgment required to provide professional services. 
+				]]>
+			</text>
+			<text id="s2a2">
+				<![CDATA[The assessment tools provide constructive feedback to help you develop your knowledge, skills and abilities; and provide information to the College about registrants' individual and aggregate competence.
+				]]>
+			</text>
+			<text id="s2a3">
+				<![CDATA[Competence assessment is not intended to be punitive, or to take pharmacists' licenses away from them. Competence assessment is intended to provide the pharmacist with objective feedback about some aspects of his or her competence; complement the pharmacist's self-assessment; provide information to help guide the pharmacist's continuing professional development; and provide assurance to patients, government, and other health professionals that Alberta pharmacists are competent to perform their authorized roles.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Selection for Competence Assessment" scene="Selection For CA">
+			<text id="s2b1">
+				<![CDATA[To fulfill its legislated and moral mandate, each year the College randomly selects a percentage of clinical pharmacists to undergo competence assessment. Eventually, all clinical pharmacists will have been assessed and the cycle will repeat. 
+				]]>
+			</text>
+			<text id="s2b2">
+				<![CDATA[Pharmacists who feel they cannot be assessed when selected for competence assessment and who are not currently practicing pharmacy may request a deferral. The Competence Committee recognizes that the timing of an assessment may not be reasonable or practical, such as during maternity or medical leave. However, other circumstances are not justification for exemption, such as living outside of Alberta or not currently practicing pharmacy.
+				]]>
+			</text>
+			<text id="s2b3">
+				<![CDATA[Pharmacists excused from the assessment process because of an extenuating circumstance are placed on a deferral list until they can be slated back in.
+				]]>
+			</text>
+			<text id="s2b4">
+				<![CDATA[Pharmacists may apply for exemption from Competence Assessment if they have successfully completed the Ontario College of Pharmacists' Quality Assurance Practice Review or the College of Pharmacists of British Columbia's Professional Development and Assessment Program requirements within five years of being selected for ACP's competence assessment. Pharmacists who qualify for exemption must submit a written application and evidence of successful completion within 15 days of receiving their notification of being selected for competence assessment.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Two Assessment Options" scene="Two Options">
+			<text id="s2c1">
+				<![CDATA[The two options of the Competence Assessment branch are Knowledge Assessment and Professional Portfolio. 
+				]]>
+			</text>
+			<text id="s2c2">
+				<![CDATA[You can click the links to skip ahead in the tutorial and review only the option you are interested in. Or, continue listening to learn more about each option and how to make the choice about which one to complete.
+				]]>
+			</text>
+			<text id="s2c3">
+				<![CDATA[When you are selected for competence assessment, you must choose your assessment option and notify the College of your choice within 60 days of being selected. You may change your selection once at no charge. Each subsequent change is subject to an administration fee. To change your assessment option, submit a written request to the Competence Department along with applicable fees. The fee amount is specified in the Competence Assessment Handbook. The completion deadline, however, remains the same&mdash;you do not get an extension if you change your assessment option.
+				]]>
+			</text>
+			<text id="s2c4">
+				<![CDATA[Your competence assessment must be completed by the deadline in order to renew your practice permit.
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item2" file="lessons/The Assessment Choice.swf">
+		<lesson title="Making the Competence Assessment Choice" scene="Making The Choice">
+			<text id="s3a1">
+				<![CDATA[The Knowledge Assessment is a three-hour assessment that is open-book and computer-based with up to 75 multiple choice questions. 
+				]]>
+			</text>
+			<text id="s3a2">
+				<![CDATA[The Professional Portfolio is about demonstrating how you maintain and enhance your competence in your own practice. Using forms and documents, you are asked to explain how you have applied the learnings from your continuing professional development activities into your practice and to support that explanation with actual evidence from your practice.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Decision-Making Process" scene="Decision Making">
+			<text id="s3b1">
+				<![CDATA[With a few exceptions, clinical pharmacists who are selected for competence assessment may choose either of these assessment options. 
+				]]>
+			</text>
+			<text id="s3b2">
+				<![CDATA[First, let's take a look at the exceptions. Some circumstances determine which option must be completed.
+				]]>
+			</text>
+			<text id="s3b3">
+				<![CDATA[If you have additional prescribing authorization, you must complete a Professional Portfolio.
+				]]>
+			</text>
+			<text id="s3b4">
+				<![CDATA[If you live outside of Canada, you must complete a Professional Portfolio since the Knowledge Assessment is not available outside of Canada.
+				]]>
+			</text>
+			<text id="s3b5">
+				<![CDATA[If you cannot gather the required documents for the Professional Portfolio in your current practice setting, you must complete the Knowledge Assessment. The required documents include at least two pieces of evidence for each of the three Practice Enhancement Records; this is fully explained in the Professional Portfolio section of this tutorial.
+				]]>
+			</text>
+			<text id="s3b6">
+				<![CDATA[If these exceptions do not apply to your situation, you may select either of the assessment options.
+				]]>
+			</text>
+			<text id="s3b7">
+				<![CDATA[You may prefer to complete the Professional Portfolio if you work in a specialized practice such as an anticoagulation or cancer clinic; if you work in a non-direct patient care setting such as administration or government; if you have extreme test anxiety; if you already plan and undertake your learning in a structured manner; or if you have specific competence areas or areas of practice you would like to develop over the next year or that you have been working on for the past year.
+				]]>
+			</text>
+			<text id="s3b8">
+				<![CDATA[Completing the Professional Portfolio for these situations is only a suggestion. Other than the exceptions, the choice whether to complete the Knowledge Assessment or Professional Portfolio is up to you.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Making Your Selection" scene="Making Your Selection">
+			<text id="s3c1">
+				<![CDATA[To make your competence assessment selection, log in to the "Registrant profile login" section of the ACP website. Click "Competence Assessment" and choose either Knowledge Assessment or Professional Portfolio. 
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item3" file="lessons/Professional Portfolio_Pt1.swf">
+		<lesson title="Professional Portfolio" scene="Professional Portfolio">
+			<text id="s4a1">
+				<![CDATA[The Professional Portfolio allows you to demonstrate to the College that you are using your continuing professional development to enhance your practice. Through the Professional Portfolio, you demonstrate that you identify the gaps and weaknesses in your competencies; develop learning plans to address those gaps; follow through on those learning plans; and apply your learning and enhance your practice. 
+				]]>
+			</text>
+			<text id="s4a2">
+				<![CDATA[The Professional Portfolio helps you move through all phases of the continuing professional development cycle, including documentation; to demonstrate that you continue to keep your knowledge, skills, and abilities current through planned continuing professional development; to show that you can transfer your knowledge to your practice; and to fulfill your continuing competence obligations under the Health Professions Act.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="How Professional Portfolio Relates to CPD" scene="How Folio Relates To CPD">
+			<text id="s4b1">
+				<![CDATA[The foundation of the entire RxCEL Competence Program is continuing professional development. The CPD Plan provides you with tools to effectively manage your continuing professional development so that you maintain and enhance your competence throughout your professional career. 
+				]]>
+			</text>
+			<text id="s4b2">
+				<![CDATA[The CPD plan includes tools for completing your self-assessment, developing a learning plan, documenting your learning, and evaluating your learning. We'll take a look at these four main tasks in detail in the next section.
+				]]>
+			</text>
+			<text id="s4b3">
+				<![CDATA[The results of your self-assessment serve as the foundation of your Professional Portfolio. Through the Professional Portfolio, you report to the College how you have enhanced your practice using CPD.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="How to Develop your Professional Portfolio" scene="How to Develop Folio">
+			<text id="s4c1">
+				<![CDATA[It takes time to develop your Professional Portfolio. It isn't something you can pull together in a weekend. 
+				]]>
+			</text>
+			<text id="s4c2">
+				<![CDATA[To develop your portfolio, you must first undertake continuing professional development, which we'll cover in Part 1. Then, you can compile your Professional Portfolio, as we describe in Part 2.
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item4" file="lessons/Professional Portfolio_Pt2.swf">
+		<lesson title="Part 1 - Undertake Continuing Professional Development" scene="Part One">
+			<text id="s5a1">
+				<![CDATA[To plan and undertake continuing professional development, use the RxCEL Continuing Professional Development Plan.
+				]]>
+			</text>
+			<text id="s5a2">
+				<![CDATA[To access your personal and confidential CPD Plan, log in to the "Registrant profile login" section of the ACP website. Instructions for completing your CPD Plan are included with the plan.
+				]]>
+			</text>
+			<text id="s5a3">
+				<![CDATA[Continuing professional development is an ongoing process, and the CPD cycle is also ongoing. Each step in the process leads to another, including evaluation, which then provides information for the next self-assessment. There is no point where learning stops or becomes unnecessary.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Self-assessment" scene="Self Assessment" subsection="true">
+			<text id="s5b1">
+				<![CDATA[In the self-assessment task, take a personal inventory of your competency skill set. What do you already know? What areas do you want to develop and improve? What areas are not applicable to your practice?
+				]]>
+			</text>
+			<text id="s5b2">
+				<![CDATA[You may choose to complete the entire self-assessment within the RxCEL Continuing Professional Development Plan. Or, you may select areas that are relevant to your practice or areas that you know you want or need to develop.
+				]]>
+			</text>
+			<text id="s5b3">
+				<![CDATA[As part of your self-assessment, you might want to get feedback from supervisors or managers, peers, patients, and other members of the health care team. They can help you see areas that you need to work on.
+				]]>
+			</text>
+			<text id="s5b4">
+				<![CDATA[You may also gather information by reflecting on how you managed a patient or a practice situation, by discussing pharmacy practice with peers or others, by scanning the literature, or by engaging in teaching, writing, research or a CE program.
+				]]>
+			</text>
+			<text id="s5b5">
+				<![CDATA[After you've reflected on your competencies and your practice, identify how you want to enhance your practice. What measurable impact, change, or outcome do you hope to make in your practice? What impact do you anticipate this will have on patients or provision of patient care (even if it is indirect)?
+				]]>
+			</text>
+			<text id="s5b6">
+				<![CDATA[As you complete your self-assessment, remember it is only for you and always confidential. Do not submit your self-assessment to ACP as part of your Professional Portfolio.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Learning plan" scene="Learning Plan" subsection="true">
+			<text id="s5c1">
+				<![CDATA[Next, develop your learning plan based on what you discovered through reflecting on your practice and your competencies.
+				]]>
+			</text>
+			<text id="s5c2">
+				<![CDATA[What specific knowledge, skills, or abilities do you need to gain or enhance? What are your learning objectives? What learning activities can address your learning objectives? How are you going to achieve your learning objectives? By what date do you want to complete the necessary learning?
+				]]>
+			</text>
+			<text id="s5c3">
+				<![CDATA[Write your learning objectives in the SMART format.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="SMART objectives" scene="SMART Objectives" subsection="true">
+			<text id="s5d1">
+				<![CDATA[The SMART format helps you achieve your learning objective and confirm that you have achieved it. The format also enables assessors to assess whether you have achieved your learning objective when they review your portfolio.
+				]]>
+			</text>
+			<text id="s5d2">
+				<![CDATA[SMART objectives are specific, measurable, attainable, relevant, and time-based.
+				]]>
+			</text>
+			<text id="s5d3">
+				<![CDATA[Specific means the objective is concrete and uses action verbs. An observable action, behaviour, or achievement is described. Action verbs include accept, adapt, advocate, alter, analyze, apply, combine, conduct, control, define, describe, design, detect, identify, list, perform, and watch. Avoid vague terms such as appreciate, be aware of, comprehend, enjoy, know, know how, learn, practice, rehearse, think about, and understand&mdash;these are difficult to provide evidence for. How will you show the assessor, for example, that you understand HIV and its treatments?
+				]]>
+			</text>
+			<text id="s5d4">
+				<![CDATA[Measurable means the objective has a quantity, quality, cost, or something that can be measured.
+				]]>
+			</text>
+			<text id="s5d5">
+				<![CDATA[Attainable means the objective is feasible and has a scope or boundary. You should be able to achieve the objective with the resources available to you and with a reasonable amount of effort.
+				]]>
+			</text>
+			<text id="s5d6">
+				<![CDATA[Relevant means the objective addresses something that is important to you and your practice, something that you can change or affect.
+				]]>
+			</text>
+			<text id="s5d7">
+				<![CDATA[Time-based means the objective has a target date to be completed.
+				]]>
+			</text>
+			<text id="s5d8">
+				<![CDATA[An example of a SMART learning objective is: By January 2012, develop a one-page handout that states target BPs for specific patient groups in my practice, including patients with diabetes, renal disease, and non-diabetic renal disease, according to the latest guidelines.
+				]]>
+			</text>
+			<text id="s5d9">
+				<![CDATA[The objective is <b>specific</b> because I will develop a one-page handout; <b>measurable</b> because I will have produced a handout; <b>attainable</b> since I believe that I can attain this using the latest guidelines; <b>relevant</b> to my practice since achieving target BP is an important objective for these patients. A handout listing target BPs will facilitate my discussions with my patients. The objective is <b>time-based</b> since it needs to be achieved by January 2012.
+				]]>
+			</text>
+			<text id="s5d10">
+				<![CDATA[An example of a learning objective that is not SMART is: Learn more about diabetes.
+				]]>
+			</text>
+			<text id="s5d11">
+				<![CDATA[What does "learn more" mean? Although this objective is probably relevant, and maybe attainable, it isn't specific, measurable, or time-based.
+				]]>
+			</text>
+			<text id="s5d12">
+				<![CDATA[Review the links in the Resources for Competence Assessment PDF for setting SMART learning objectives.
+				]]>
+			</text>
+			<text id="s5d13">
+				<![CDATA[When you are ready to continue with the tutorial, click the Continue button.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Learning activities" scene="Learning Activities" subsection="true">
+			<text id="s5e1">
+				<![CDATA[After you've developed your SMART objectives, implement your learning plan by completing learning activities, such as taking courses or reading journal articles.
+				]]>
+			</text>
+			<text id="s5e2">
+				<![CDATA[You can take traditional continuing pharmacy education courses, but you will likely need to go beyond them to achieve your entire learning objective. Other learning activities include working with a mentor; undertaking an internet search for relevant, current, evidence-based information; and looking at learning opportunities outside of the world of pharmacy, such as courses in communication, instructional design, or leadership. Always ensure that the learning is relevant to your <b>pharmacy</b> practice.
+				]]>
+			</text>
+			<text id="s5e3">
+				<![CDATA[Once you have undertaken learning activities, complete and gather the required documentation, which is a critical component of your Professional Portfolio.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Evaluation and outcomes" scene="Evaluation" subsection="true">
+			<text id="s5f1">
+				<![CDATA[Next, evaluate how participating in the learning activities benefits both you and your patients, and reflect on how the learning affects your practice.
+				]]>
+			</text>
+			<text id="s5f2">
+				<![CDATA[What have you learned? How will you apply this new skill or knowledge to your practice? How will it affect your patients? Do you need to do further learning?
+				]]>
+			</text>
+			<text id="s5f3">
+				<![CDATA[Participation in continuing professional development is not sufficient to ensure continuing competence. Your Professional Portfolio must also describe how you have incorporated new and enhanced competencies into your practice and how they impact patient care, either on an individual level, a systems level, or a higher level, such as provincially or nationally.
+				]]>
+			</text>
+			<text id="s5f4">
+				<![CDATA[As the cycle continues, this evaluation feeds into your next self-assessment.
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item5" file="lessons/Professional Portfolio_Pt3.swf">
+		<lesson title="Part 2 - Compile Your Professional Portfolio" scene="Part Two">
+			<text id="s6a1">
+				<![CDATA[Although you will likely use your RxCEL CPD Plan to plan your continuing professional development, you do not submit it to the College as part of your Professional Portfolio.
+				]]>
+			</text>
+			<text id="s6a2">
+				<![CDATA[Your Professional Portfolio consists of one RxCEL Professional Portfolio Cover Sheet and three Practice Enhancement Records, one for each learning project.
+				]]>
+			</text>
+			<text id="s6a3">
+				<![CDATA[We will review the Practice Enhancement Record first, because some of its data is later summarized on the Cover Sheet.
+				]]>
+			</text>
+			<text id="s6a4">
+				<![CDATA[If you want, you can click the links to open and print these documents to follow along. Or you can refer to them in your Competence Assessment Handbook.
+				]]>
+			</text>
+			<text id="s6a5">
+				<![CDATA[When you are ready to continue with the tutorial, click the Continue button.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Learning projects" scene="Learning Projects" subsection="true">
+			<text id="s6b1">
+				<![CDATA[For your Professional Portfolio, you must select three learning projects that you have completed and implemented in your pharmacy practice, or that you will complete by the Competence Assessment due date. Documenting these projects will be the evidence for your portfolio.
+				]]>
+			</text>
+			<text id="s6b2">
+				<![CDATA[Each learning project consists of a specific learning objective, documentation of undertaking learning activities, evaluation of learning, implementation in practice, and impact on patient care.
+				]]>
+			</text>
+			<text id="s6b3">
+				<![CDATA[The three learning projects must describe learning within particular domains and specific competency areas. You'll find these details listed in your Competence Assessment Handbook, plus you can refer to the Competency Profile for Alberta Pharmacists on the ACP website.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Completing the Practice Enhancement Record" scene="Complete Record" subsection="true">
+			<text id="s6c1">
+				<![CDATA[The Professional Portfolio that you submit to the College for competence assessment includes documentation of the learning projects you have completed.
+				]]>
+			</text>
+			<text id="s6c2">
+				<![CDATA[You must complete a Practice Enhancement Record for each of the three learning projects.
+				]]>
+			</text>
+			<text id="s6c3">
+				<![CDATA[Much of the information for your Practice Enhancement Record can be transferred from your Continuing Professional Development Plan.
+				]]>
+			</text>
+			<text id="s6c4">
+				<![CDATA[The Practice Enhancement Record is designed to help you document all the steps of the learning project, and it follows the process you already used to plan and undertake your continuing professional development.
+				]]>
+			</text>
+			<text id="s6c5">
+				<![CDATA[We'll review each section of the form, and complete the form as we go. Don't worry about reading all the content we enter: you can print a copy of the complete sample when we're done.
+				]]>
+			</text>
+			<text id="s6c6">
+				<![CDATA[Begin by completing your name, registration number, dates you started and completed the learning project, topic of your learning project, and Practice Enhancement Record number (1, 2, or 3). Later, you will use this number to relate your evidence to this record.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Step 1. Plan to enhance your practice" scene="Step One" subsection="true">
+			<text id="s6d1">
+				<![CDATA[In Step 1, describe how you plan to enhance your practice.
+				]]>
+			</text>
+			<text id="s6d2">
+				<![CDATA[In Step 1A, identify the methods you used to determine how you wanted to enhance your practice. Check all the methods that you used.
+				]]>
+			</text>
+			<text id="s6d3">
+				<![CDATA[In Step 1B, describe how you want to enhance your practice. What measurable outcome do you hope to make in your practice? What impact do you anticipate this will have on patients or provision of patient care (even if it is indirect impact on patients)?
+				]]>
+			</text>
+			<text id="s6d4">
+				<![CDATA[Step 1C is about planning your learning and has three sub-steps. In the first, specify the knowledge, skills, or abilities you need to gain or enhance through learning to achieve the outcome you specified in Step 1B. You can refer to your Continuing Professional Development Plan for a comprehensive list of competencies.
+				]]>
+			</text>
+			<text id="s6d5">
+				<![CDATA[In the second sub-step, define your learning objective in the SMART format. Remember, SMART stands for specific, measurable, attainable (in this case, by the time you submit your professional portfolio), relevant to your practice, and time-based. You need to complete the objective by the time you submit your Professional Portfolio. Your learning objective is a very important piece of information because you will be describing whether or not you achieved it. Be sure to write this as a learning objective, not a desired practice outcome or a description of how you are going to change your practice. Make sure you state it as a <b>learning objective</b>.
+				]]>
+			</text>
+			<text id="s6d6">
+				<![CDATA[In the last sub-step, link your learning objective to one or more competency domains. At least one of the three learning projects must relate to the domain of patient care, medical knowledge, or systems-based practice.
+				]]>
+			</text>
+			<text id="s6d7">
+				<![CDATA[If you are a pharmacist with additional prescribing authorization, at least one Practice Enhancement Record must focus on the area of Patient Care Practice, and one piece of evidence for this record must be an actual care plan from your practice. This allows pharmacists to demonstrate that they are maintaining and enhancing the competencies that first gained them this authorization.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Step 2. Act to enhance your practice" scene="Step Two" subsection="true">
+			<text id="s6e1">
+				<![CDATA[In Step 2, describe the learning activities you completed to achieve your learning objective. For workshops, courses, conferences, and self-study programs, be sure to complete the details. Provide the program name, organization that provided the program, location, dates you took the program, and the program expiry date. The program expiry date helps assessors determine whether the program was current.
+				]]>
+			</text>
+			<text id="s6e2">
+				<![CDATA[Include specifics of your learning, such as references read, experts or colleagues you discussed the issue with, or the name of the preceptor or mentor you worked with. If you did a literature search, identify specifics such as search terms and databases. Include only learning activities that are relevant to this learning objective.
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item6" file="lessons/Professional Portfolio_Pt4.swf">
+		<lesson title="Step 3. Evaluate your practice enhancement" scene="Step Three" subsection="true">
+			<text id="s7a1">
+				<![CDATA[In Step 3, evaluate your practice enhancement.
+				]]>
+			</text>
+			<text id="s7a2">
+				<![CDATA[In 3A, identify and explain what new learning or outcomes occurred.
+				]]>
+			</text>
+			<text id="s7a3">
+				<![CDATA[In 3B, describe how you implemented your learnings into your practice.
+				]]>
+			</text>
+			<text id="s7a4">
+				<![CDATA[3C is about evaluating your achievement. Describe the impact of your learning on patient care, which may occur at the individual patient level, a systems level (such as your pharmacy, hospital, or area), or a higher level such as provincially or nationally. If you achieved your plan to enhance your practice, elaborate using the SMART format. If you did not achieve it, review the questions on the form.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Step 4. Provide evidence of outcome" scene="Step Four" subsection="true">
+			<text id="s7b1">
+				<![CDATA[In Step 4, provide the evidence that supports your achievements. You must include at least <b>two</b> pieces of evidence for each Practice Enhancement Record, one of which must be direct evidence.
+				]]>
+			</text>
+			<text id="s7b2">
+				<![CDATA[Make sure you clearly number your documentation or evidence as relating to Practice Enhancement Record 1, 2, or 3.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Evidence" scene="Evidence" subsection="true">
+			<text id="s7c1">
+				<![CDATA[Direct evidence can be anything that is produced by you or is the direct result of your own work related to the practice enhancement you planned.
+				]]>
+			</text>
+			<text id="s7c2">
+				<![CDATA[Examples of direct evidence include work samples, such as copies of chart notes, records, or patient interventions; notes from a clinic you facilitated; an information brochure you developed; a copy of a recent presentation you gave; a paper or article you authored that was accepted for publication; or, a course you developed.
+				]]>
+			</text>
+			<text id="s7c3">
+				<![CDATA[There are many other examples of direct evidence; these are just a few.
+				]]>
+			</text>
+			<text id="s7c4">
+				<![CDATA[Indirect evidence can be what others say about you or your work, or anything that others have produced that describes or verifies your work.
+				]]>
+			</text>
+			<text id="s7c5">
+				<![CDATA[Examples of indirect evidence include a recent performance appraisal; letters from supervisors or colleagues; feedback from clients or patients; or, articles about you and your work.
+				]]>
+			</text>
+			<text id="s7c6">
+				<![CDATA[The evidence&mdash;both direct and indirect&mdash;must support your claim that you enhanced your competencies and then put those enhanced competencies to work in your practice.
+				]]>
+			</text>
+			<text id="s7c7">
+				<![CDATA[Examples of documentation that are not considered evidence of your practice enhancement efforts include company or other organization-produced patient information pamphlets; programs developed by your employer with no direct input from you; or, a list or copies of journal articles or website information you read. On its own, reading articles does not mean you learned anything and does not mean you have enhanced your practice. However, you are encouraged to document the reading you have done as part of your learning and demonstrate how this learning was integrated into your practice.
+				]]>
+			</text>
+			<text id="s7c8">
+				<![CDATA[Each piece of evidence must also meet three technical requirements. It must be <b>valid</b>, meaning it must be clearly relevant to the activities you completed and to the learning objective you described in Step 1C.
+				]]>
+			</text>
+			<text id="s7c9">
+				<![CDATA[Evidence must be <b>authentic</b>, meaning it must clearly reflect work that you performed. This is particularly important when you submit something produced by a team, in which case you must be sure to describe your exact contribution or role.
+				]]>
+			</text>
+			<text id="s7c10">
+				<![CDATA[And the evidence must be <b>current</b>. It must reflect learning experiences or client outcomes achieved within two years of when you submit your portfolio.
+				]]>
+			</text>
+			<text id="s7c11">
+				<![CDATA[Do not submit certificates of course completion or course transcripts. Keep these in your RxCEL Learning Portfolio.
+				]]>
+			</text>
+			<text id="s7c12">
+				<![CDATA[Finally, ensure you maintain confidentiality with your evidence. Remove all names of clients, prescribers, colleagues, and others used in your documentation and evidence. Replace such data with initials, prescription number, transaction number, and other non-identifiable data. You may use people's names only if they appear in public places such as in newspaper articles, on letterhead or in publications, or if you have received their permission to share their names.
+				]]>
+			</text>
+			<text id="s7c13">
+				<![CDATA[Next, we'll look at completing the Professional Portfolio Cover Sheet.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Completing the RxCEL Professional Portfolio Cover Sheet" scene="Cover Sheet" subsection="true">
+			<text id="s7d1">
+				<![CDATA[The cover sheet provides a summary about you and your learning projects.
+				]]>
+			</text>
+			<text id="s7d2">
+				<![CDATA[In the CONTACT INFORMATION section, enter your name, registration number, address, phone numbers, email address, and a description of your current practice.
+				]]>
+			</text>
+			<text id="s7d3">
+				<![CDATA[Section 1 provides notes about the four main tasks completed in CPD. The only data you must complete is the date that you last reviewed the self-assessment in the RxCEL CPD Plan. You do not need to have reviewed the entire self-assessment on that date: you may record the latest date you last reviewed a portion of the self-assessment.
+				]]>
+			</text>
+			<text id="s7d4">
+				<![CDATA[Under 2, DEVELOP YOUR PROFESSIONAL PORTFOLIO, enter your three learning objectives. You can copy and paste this information from Box 1C ii in each Practice Enhancement Record.
+				]]>
+			</text>
+			<text id="s7d5">
+				<![CDATA[The notes remind you to select and complete three learning projects. For each learning project, you must be able to gather evidence that shows you have implemented your learning into your practice. You must also complete a Practice Enhancement Record for each learning project and complete each learning project no more than 24 months before the date you submit your Professional Portfolio.
+				]]>
+			</text>
+			<text id="s7d6">
+				<![CDATA[Section 3 reminds you to gather evidence that you implemented your enhanced or new competencies into your pharmacy practice.
+				]]>
+			</text>
+			<text id="s7d7">
+				<![CDATA[Section 4 reminds you to submit two sets of your portfolio and provides the College's mailing address.
+				]]>
+			</text>
+			<text id="s7d8">
+				<![CDATA[Read the declaration statements, and sign and date the cover sheet. This date also serves as the submission datev of your portfolio.
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item7" file="lessons/Professional Portfolio_Pt5.swf">
+		<lesson title="Submit your Professional Portfolio to the College" scene="Submit Your Folio">
+			<text id="s8a1">
+				<![CDATA[When you have the documentation and forms ready, submit <b>two</b> copies of your Professional Portfolio to the College for assessment since two assessors will review it.
+				]]>
+			</text>
+			<text id="s8a2">
+				<![CDATA[Be sure to submit <b>two sets each</b> of your completed RxCEL Professional Portfolio Cover Sheet; three individual Practice Enhancement Records; and two pieces of evidence for each Practice Enhancement Record.
+				]]>
+			</text>
+			<text id="s8a3">
+				<![CDATA[Remember to sign and date the last section of the cover sheet. With this declaration, you are verifying that the information provided in your application is true and accurate to the best of your knowledge.
+				]]>
+			</text>
+			<text id="s8a4">
+				<![CDATA[Click the Checklist for Submitting Professional Portfolio PDF link to open and print the checklist to ensure that your submission is complete and correct. You can also find this information in your Competence Assessment Handbook.
+				]]>
+			</text>
+			<text id="s8a5">
+				<![CDATA[When you are ready to continue, click the Continue button.
+				]]>
+			</text>
+			<text id="s8a6">
+				<![CDATA[Please retain a copy of your submission for your own records. <b>The College does NOT return your submission to you after it has been assessed</b>. The College keeps your submission as proof of your participation in the Competence Assessment portion of the RxCEL Competence Program.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Professional Portfolio Assessment" scene="Folio Assessment">
+			<text id="s8b1">
+				<![CDATA[ACP staff will first review your Professional Portfolio for completeness. Your portfolio is then forwarded to the assessors for evaluation. All assessors are practicing pharmacists in Alberta with at least three years of experience. They have received extensive training in conducting objective, criterion-referenced assessments.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Standard" scene="Standards" subsection="true">
+			<text id="s8c1">
+				<![CDATA[The Professional Portfolio standard was established using internationally accepted standard-setting procedures. It is "criterion-referenced" and not "norm-referenced."
+				]]>
+			</text>
+			<text id="s8c2">
+				<![CDATA["Norm-referenced" standards (also known as the "bell-curve") compare participants' results to each other and a certain percentage of participants fail regardless of how well they perform.
+				]]>
+			</text>
+			<text id="s8c3">
+				<![CDATA["Criterion-referenced" standards are based on one minimum standard and each participant must meet that standard; participants' results are not compared to each other and potentially all participants can meet the standard.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Feedback" scene="Feedback" subsection="true">
+			<text id="s8d1">
+				<![CDATA[After the results of the assessment have been psychometrically analyzed and reviewed, you will receive a feedback report. The report includes a statement indicating whether or not you met the standard, and feedback from the assessors relating to your Practice Enhancement Records. Your reports are strictly confidential and will not be given to anyone other than you.
+				]]>
+			</text>
+			<text id="s8d2">
+				<![CDATA[Use the feedback in the same way you used the information in your self-assessment&mdash;reflect on what you did well and what could have been better and begin planning more continuing professional development.
+				]]>
+			</text>
+			<text id="s8d3">
+				<![CDATA[If you do not achieve the overall minimum standard, you will have another opportunity to complete the Competence Assessment. You may choose Professional Portfolio again or change to Knowledge Assessment (unless you have Additional Prescribing Authorization). If you are not successful in your second attempt, you will be directed to undergo an OSCE (or Objective Structured Clinical Examination).
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Links to Professional Portfolio Resources" scene="Folio Links">
+			<text id="s8e1">
+				<![CDATA[Here are the Professional Portfolio resources that you can access.
+				]]>
+			</text>
+			<text id="s8e2">
+				<![CDATA[When you are ready to continue, click the Continue button.
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item8" file="lessons/Knowledge Assessment Part One.swf">
+		<lesson title="Knowledge Assessment" scene="Knowledge Assessment">
+			<text id="s9a1">
+				<![CDATA[The Knowledge Assessment allows you to demonstrate that you continue to:
+- keep your knowledge, skills, and abilities current
+- apply the knowledge and skills needed to solve drug therapy problems and other practice issues and
+- fulfill your continuing competence obligations under the Health Professions Act 
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Format and Content" scene="Format and Content">
+			<text id="s9b1">
+				<![CDATA[The format of the Knowledge Assessment is an open-book, computer-based, three-hour assessment. It consists of up to 75 multiple-choice questions. 
+				]]>
+			</text>
+			<text id="s9b2">
+				<![CDATA[The Knowledge Assessment focuses on the application of the knowledge and skills needed to solve drug therapy problems and provide direct patient care in the pharmacy setting. It includes questions relating to foundational knowledge such as therapeutics, pharmaceutics and pharmaceutical calculations, and pharmacology, as well as drug distribution, pharmacy operations, communication, and health and safety.
+				]]>
+			</text>
+			<text id="s9b3">
+				<![CDATA[The <i>RxCEL Continuing Professional Development Plan</i> and the <i>Competency Profile for Alberta Pharmacists</i> clearly outline the competencies that Alberta pharmacists hold and that may be included on the Knowledge Assessment.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Types of Questions" scene="Questions">
+			<text id="s9c1">
+				<![CDATA[The Knowledge Assessment consists of only multiple-choice questions. Each question has one <b>best answer</b>. The online system will allow you to select just one response. 
+				]]>
+			</text>
+			<text id="s9c2">
+				<![CDATA[The questions may be stand alone, or case scenarios that include sets of two to four questions that focus on a particular patient or practice situation. Relevant patient care record information is provided for all questions as appropriate.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="References for Assessment" scene="Reference">
+			<text id="s9d1">
+				<![CDATA[The recommended references for this open-book assessment are the most recent editions of <i>Compendium of Pharmaceuticals and Specialties (CPS)</i>; <i>Therapeutic Choices</i>; and <i>Patient Self-Care: Helping Patients Make Therapeutic Choices</i>. 
+				]]>
+			</text>
+			<text id="s9d2">
+				<![CDATA[ACP has arranged online access to e-Therapeutics+ during your assessment, and will also provide copies of the ACP standards of practice and ACP's Record Retention Chart at the assessment centre for your reference. You will have an online calculator available to use during the assessment.
+				]]>
+			</text>
+			<text id="s9d3">
+				<![CDATA[In addition to the resources provided, you are allowed to bring up to <b>four</b> published, bound, printed references to the Knowledge Assessment. Any bound references that you find useful are acceptable. Since ACP is supplying online access to e-Therapeutics+, you do not need to bring your own print copies of the <i>CPS</i> and <i>Therapeutic Choices</i> or a drug interactions text. However, if you are uncomfortable or unfamiliar with the online format of e-Therapeutics+, you may prefer to bring your own print references.
+				]]>
+			</text>
+			<text id="s9d4">
+				<![CDATA[You may also bring your own reference sheets and study notes; however, these sheets must be left with the proctor when you have completed your assessment. For the purposes of assessment security, you may not take any loose sheets from the assessment centre. Accessing electronic references or websites other than e-Therapeutics+ is also not permitted.
+				]]>
+			</text>
+			<text id="s9d5">
+				<![CDATA[You will not be allowed to share any references during the assessment.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Computer-Based Assessment" scene="Computer Based Assessment">
+			<text id="s9e1">
+				<![CDATA[The computer-based Knowledge Assessment is administered at proctored sites in multiple locations across Alberta. Examples of available locations include Edmonton, Calgary, Red Deer, Medicine Hat, Lethbridge, Fort McMurray, Grande Prairie, Peace River, St. Paul, Slave Lake, Cold Lake, High Prairie, Lac La Biche, and Swan Hills. 
+				]]>
+			</text>
+			<text id="s9e2">
+				<![CDATA[You will choose your assessment date, time and location from the available options by logging in through the ACP website after you have been selected for competence assessment and chosen the Knowledge Assessment as your preferred option.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Writing the Knowledge Assessment" scene="Writing The Assessment">
+			<text id="s9f1">
+				<![CDATA[The next two screens discuss what you need to bring to the assessment site and what you cannot bring. 
+				]]>
+			</text>
+			<text id="s9f2">
+				<![CDATA[Click on the Writing the Knowledge Assessment PDF link to open and print the list if you'd like to follow along with a printed copy to make notes. Or you may refer to your Competence Assessment Handbook.
+				]]>
+			</text>
+			<text id="s9f3">
+				<![CDATA[When you are ready to continue with the tutorial, click the Continue button.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="What to bring" scene="What To Bring" subsection="true">
+			<text id="s9g1">
+				<![CDATA[On the day of your Knowledge Assessment, make sure you have the following items with you: valid photo identification (such as your driver's license, passport, provincial identity card issued by the Province of Alberta, or police identity card issued by the RCMP or a municipality); ACP practice permit; your ACP user name and password; Knowledge Assessment booking confirmation email; two or three pencils or pens; up to four published, bound, print references, if desired; your own reference sheets or study notes, if desired (these must be left at the assessment centre after you have completed your assessment); and water in a spill-proof container (if needed).
+				]]>
+			</text>
+			</lesson>
+		<lesson title="What NOT to bring" scene="What Not To Bring" subsection="true">
+			<text id="s9h1">
+				<![CDATA[On the day of your Knowledge Assessment, make sure you do NOT bring the following items with you: recorders, electronic day timers, personal digital assistants, hand-held computers (such as an iPad) or any other electronic devices; cell phones (including smartphones such as Blackberry, iPhone, or Palm); portable storage devices (such as USB sticks); listening devices (such as iPod or Zune); cameras; pagers; and food or drinks other than water. 
+				]]>
+			</text>
+			<text id="s9h2">
+				<![CDATA[Any material that may compromise the administration or the security of the assessment, including but not limited to these items, must be left with the proctor during the assessment and picked up upon leaving the assessment. Proctors and examination staff are not responsible for the security of the items. 
+				]]>
+			</text>
+			<text id="s9h3">
+				<![CDATA[Prior to your assessment date, you must notify the Alberta College of Pharmacists in writing of any medical situation requiring special accommodation. 
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Registration and entry" scene="Registration" subsection="true">
+			<text id="s9i1">
+				<![CDATA[On the day of your assessment, you will show valid photo identification when you sign in at the assessment centre; read, electronically "sign" and adhere to the "Participants' Agreement – Obligations and Rules of Conduct for Assessment Participants" prior to completing the assessment; and sign in and sign out of the assessment centre. 
+				]]>
+			</text>
+			<text id="s9i2">
+				<![CDATA[When you are ready to continue, click the Continue button. 
+				]]>
+			</text>
+		</lesson>
+		<lesson title="Security and confidentiality" scene="Security" subsection="true">
+			<text id="s9j1">
+				<![CDATA[The security of the content of the assessments is maintained before, during, and after each assessment. Copyright law protects all assessment materials, and participants must sign and abide by the "Participants' Agreement." 
+				]]>
+			</text>
+			<text id="s9j2">
+				<![CDATA[Contravention of the copyright, obligations and rules of conduct, and the Participants' Agreement declaration will not be tolerated and may result in an invalidated assessment result or other actions. A participant may be held responsible for all damages if the assessment or any component of it is compromised by his or her actions. 
+				]]>
+			</text>
+			<text id="s9j3">
+				<![CDATA[Serious breaches with substantial loss to the College or others may be referred to the Discipline Process of the College or result in legal action. 
+				]]>
+			</text>
+		</lesson>
+		<lesson title="Issues" scene="Issues" subsection="true">
+			<text id="s9k1">
+				<![CDATA[If you have a concern about an unforeseen circumstance or a particular incident at the test site that may have adversely affected your performance, you must report it. Document the issue on the Knowledge Assessment Questionnaire before you leave the assessment site. All Knowledge Assessment Questionnaires are reviewed and are considered in determining the outcome of your assessment.
+				]]>
+			</text>
+			<text id="s9k2">
+				<![CDATA[If you wish to provide additional information relating to a matter reported on the Knowledge Assessment Questionnaire, please forward your comments in writing to the Competence Director, Alberta College of Pharmacists (email is acceptable, addressed to competenceinfo@pharmacists.ab.ca) within seven calendar days of the assessment date and accompanied by supporting documentation. A response to your concern will be made in writing.
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item9" file="lessons/Knowledge Assessment Part Two.swf">
+		<lesson title="After the Assessment" scene="After The Assessment">
+			<text id="s10a1">
+				<![CDATA[After the results of the assessment have been psychometrically analyzed and reviewed by the Knowledge Assessment Panel, you will receive a feedback report. 
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Knowledge Assessment Standard" scene="Assessment Standards" subsection="true">
+			<text id="s10b1">
+				<![CDATA[The Knowledge Assessment standard was established using internationally accepted standard setting procedures. It is "criterion-referenced" and not "norm-referenced." 
+				]]>
+			</text>>
+			<text id="s10b2">
+				<![CDATA["Norm-referenced" standards (also known as the "bell-curve") compare participants' results to each other and a certain percentage of participants fail regardless of how well they perform. 
+				]]>
+			</text>
+			<text id="s10b3">
+				<![CDATA["Criterion-referenced" standards are based on one minimum standard and each participant must meet that standard; participants' results are not compared to each other and potentially all participants can meet the standard. 
+				]]>
+			</text>
+			<text id="s10b4">
+				<![CDATA[The questions in the Knowledge Assessment have been developed by practicing pharmacists from a wide variety of patient care settings, who have been trained to write analytical test questions following internationally accepted guidelines and standards. Questions are based on actual clinical situations and are in keeping with the Knowledge Assessment Specifications. The answers are based on evidence, not on the practitioner's clinical judgment or experience. 
+				]]>
+			</text>
+			<text id="s10b5">
+				<![CDATA[When you are ready to continue, click the Continue button.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Feedback" scene="Feedback" subsection="true">
+			<text id="s10c1">
+				<![CDATA[The feedback report includes a statement indicating whether or not you met the established standard, and a report indicating your performance on the various topic areas. Your reports are strictly confidential and will not be provided to anyone other than you. 
+				]]>
+			</text>
+			<text id="s10c2">
+				<![CDATA[You will not receive a numeric score report. To ensure the security of the assessment questions, you will <b>not</b> receive feedback on individual questions.
+				]]>
+			</text>>
+			<text id="s10c3">
+				<![CDATA[The feedback report enables you to determine your areas of strength and any gaps in your knowledge. Use this information to help you to modify your current continuing professional development plan or develop a new one, and to think about how you practice and how your practice or patient outcomes might be improved.
+				]]>
+			</text>
+			<text id="s10c4">
+				<![CDATA[If you do not achieve the overall minimum standard, you will have another opportunity to complete the Competence Assessment. You may choose Knowledge Assessment again or change to Professional Portfolio. If you are not successful in your second attempt, you will be directed to undergo an OSCE (or Objective Structured Clinical Examination).
+				]]>
+			</text>
+		</lesson>
+		<lesson title="Tips for Taking the Knowledge Assessment" scene="Tips">
+			<text id="s10d1">
+				<![CDATA[Most people are a little anxious before an exam. However, you can reduce your anxiety in a number of ways.
+
+1.	Prepare for the Knowledge Assessment
+2.	Practice
+3.	Organize your thoughts and materials
+4.	Reduce anxiety on the day of the Knowledge Assessment
+5.	Follow our test-taking tips 
+				]]>
+			</text>
+			<text id="s10d2">
+				<![CDATA[We'll review each tip in detail. We'll provide a list of the online resources after we review the tips.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="1. Prepare for the Knowledge Assessment" scene="Prepare" subsection="true">
+			<text id="s10e1">
+				<![CDATA[<head><b>Tip 1: Prepare for the Knowledge Assessment</b></head>Preparing means learning as much about the assessment and yourself as you can. Here are some techniques.
+				]]>
+			</text>
+			<text id="s10e2">
+				<![CDATA[Complete your self-assessment in your personal continuing professional development plan and review the Competency Profile for Alberta Pharmacists.
+				]]>
+			</text>
+			<text id="s10e3">
+				<![CDATA[Compare the Knowledge Assessment Specifications to what you know of your own knowledge and skills. Each assessment follows the Knowledge Assessment Specifications (Blueprint), so carefully reviewing these specifications will help you prepare to take the assessment.
+				]]>
+			</text>
+			<text id="s10e4">
+				<![CDATA[Make sure you understand the format and types of questions found on the Knowledge Assessment.
+				]]>
+			</text>
+			<text id="s10e5">
+				<![CDATA[Familiarize yourself with the organization and content of the online reference e-Therapeutics+ so you can access information quickly and easily during the assessment. ACP's subscription for e-Therapeutics+ is only for the day of the Knowledge Assessment. If you want to practice using it prior to the assessment, you must arrange access yourself.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="2. Practice" scene="Practice" subsection="true">
+			<text id="s10f1">
+				<![CDATA[<head><b>Tip 2: Practice</b></head>Use the sample questions in the online Knowledge Assessment Practice Quiz to get an idea of the types of questions you can expect on the assessment. You may also find it helpful to work with colleagues by developing mock questions, discussing specific disease state topics, exploring specific types of problems, and researching specific types of questions.
+				]]>
+			</text>
+			<text id="s10f2">
+				<![CDATA[Remember that studying means more than simply underlining words in a textbook. For this assessment, you'll need to be able to apply your knowledge and skills, make sound practice decisions, and be familiar with a wide range of practice areas, whether or not you currently work in these areas.
+				]]>
+			</text>
+			<text id="s10f3">
+				<![CDATA[Also practice using all the features of the online assessment system, including things you may not be familiar with, such as bookmarking and the online calculator. A system tutorial is available for you to become familiar with the online assessment system before you do your Knowledge Assessment.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="3. Organize your thoughts and materials" scene="Organize" subsection="true">
+			<text id="s10g1">
+				<![CDATA[<head><b>Tip 3: Organize your thoughts and materials</b></head>You will likely feel more confident if you are well prepared and well organized. Develop a clear, targeted study or professional development plan in the months and weeks leading up to the assessment and keep to it so you can address any gaps in your knowledge or skills.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="4. Reduce anxiety on the day of the Knowledge Assessment" scene="Reduce Anxiety" subsection="true">
+			<text id="s10h1">
+				<![CDATA[<head><b>Tip 4: Reduce anxiety on the day of the Knowledge Assessment</b></head> On the day of the assessment, arrive at the site early so you know where to park and how to locate the exam room and restrooms. The night before the assessment, get a good night's sleep. And eat and drink something before arriving to take the assessment.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="5. Follow test-taking tips" scene="Follow Test Tips" subsection="true">
+			<text id="s10i1">
+				<![CDATA[<head><b>Tip 5: Follow test&ndash;taking tips</b></head> When you arrive at the computer workstation assigned to you for the assessment, get settled and organize your materials.
+				]]>
+			</text>
+			<text id="s10i2">
+				<![CDATA[Be sure that the "Knowledge Assessment Questionnaire" is at your workstation.
+				]]>
+			</text>
+			<text id="s10i3">
+				<![CDATA[Before the assessment begins, listen carefully to the proctor's instructions.
+				]]>
+			</text>
+			<text id="s10i4">
+				<![CDATA[When the proctor announces that you may begin, log on to your assessment using your ACP user name and password on your assigned computer. Click the e-Therapeutics+ link to open it, and find and open the online calculator.
+				]]>
+			</text>
+			<text id="s10i5">
+				<![CDATA[Click the e-Therapeutics+ link to open it. Find and open the online calculator
+				]]>
+			</text>
+			<text id="s10i6">
+				<![CDATA[Notify the proctor immediately if you have any problems logging on to the Knowledge Assessment or e-Therapeutics+.
+				]]>
+			</text>
+			<text id="s10i7">
+				<![CDATA[Read the instructions at the beginning of the assessment.
+				]]>
+			</text>
+			<text id="s10i8">
+				<![CDATA[Estimate the time needed for individual questions or pages. You have three hours to answer 70 questions or about 23 questions per hour.
+				]]>
+			</text>
+			<text id="s10i9">
+				<![CDATA[Monitor your time. There is a clock on the left top corner of the webpage; it will count down the time remaining. (You can hide the clock during your assessment if you find it distracting. You can practice this when you do the system tutorial.)
+				]]>
+			</text>
+			<text id="s10i10">
+				<![CDATA[Be sure to allocate enough time to answer all parts of the assessment.
+				]]>
+			</text>
+			<text id="s10i11">
+				<![CDATA[Read through and answer as many questions as you can without using references.
+				]]>
+			</text>
+			<text id="s10i12">
+				<![CDATA[Answer each question to yourself before you look at the possible answers.
+				]]>
+			</text>
+			<text id="s10i13">
+				<![CDATA[Choose the option that best answers the question or is closest to your response.
+				]]>
+			</text>
+			<text id="s10i14">
+				<![CDATA[If you are quite confident of your answer, select the appropriate statement and click "Submit Answer". If you are not confident, bookmark the question so you can come back to it later. Your assessment is not submitted for grading until you click "END" or the three-hour time limit is reached.
+				]]>
+			</text>
+			<text id="s10i15">
+				<![CDATA[Don't stay too long on any one question. Bookmark the questions that you cannot answer or are unsure about; move on to another question and return later to the more difficult questions or those for which you need to check references.
+				]]>
+			</text>
+			<text id="s10i16">
+				<![CDATA[Review and check references for the difficult questions after going through all questions the first time. Once you find the information you need, select the best response and submit your answer. Do not spend time in other references unless you have finished and there is time to spare.
+				]]>
+			</text>
+			<text id="s10i17">
+				<![CDATA[If you decide to change your answer to a question, click the answer you now want to select and click "Submit Answer". Your previous selection will be overwritten by this new answer.
+				]]>
+			</text>
+			<text id="s10i18">
+				<![CDATA[Once you have answered all the questions, check the time remaining on the assessment clock. If you have time, you may review your answers.
+				]]>
+			</text>
+			<text id="s10i19">
+				<![CDATA[Record any problematic questions, errors, or incidents on your "Knowledge Assessment Questionnaire".
+				]]>
+			</text>
+			<text id="s10i20">
+				<![CDATA[For the purposes of scoring the Knowledge Assessment, all answers submitted will be considered the participant's choice. All answers must be submitted within the three&ndash;hour allotted time. Once you have finished, click "END." When the allotted three hour time period is over, the exam will end and you will be logged out.
+				]]>
+			</text>
+			</lesson>
+		<lesson title="Links to Knowledge Assessment Resources" scene="Assessment Links">
+			<text id="s10j1">
+				<![CDATA[Here are the Knowledge Assessment resources that you can access. 
+				]]>
+			</text>
+			<text id="s10j2">
+				<![CDATA[When you are ready to continue, click the Continue button. 
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item10" file="lessons/FAQ.swf">
+		<lesson title="FAQ" scene="FAQ">
+			<text id="s11a1">
+				<![CDATA[It's a good idea to review the frequently asked questions found on the ACP website, especially if you still have questions about competence assessment. 
+				]]>
+			</text>
+			<text id="s11a2">
+				<![CDATA[When you are ready to continue, click the Continue button. 
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item11" file="lessons/Resources.swf">
+		<lesson title="Resources" scene="Resources">
+			<text id="s12a1">
+				<![CDATA[Here we've listed all the resources in alphabetic order, noting which are for Knowledge Assessment, Professional Portfolio, or both. 
+				]]>
+			</text>
+			<text id="s12a2">
+				<![CDATA[Remember that many of these resources can be found in the Competence Assessment Handbook and on the ACP website. 
+				]]>
+			</text>
+			</lesson>
+	</category>
+	<category id="item12" file="lessons/Conclusion.swf">
+		<lesson title="Conclusion" scene="Conclusion">
+			<text id="s13a1">
+				<![CDATA[Thank you for taking the time to complete this RxCEL Competence Assessment Tutorial. We hope you have found it valuable and welcome your comments at 780.990.0321, toll free at 1.877.227.3838, or by email at competenceinfo@pharmacists.ab.ca. 
+				]]>
+			</text>
+			<text id="s13a2">
+				<![CDATA[Remember, you can review sections of this tutorial as needed and refer to the Continuing Competence section on the ACP website. 
+				]]>
+			</text>
+			</lesson>
+	</category>
+</lessons>

@@ -1,0 +1,1 @@
+﻿package imobile.view {	import imobile.controller.iButton;		public class RewindButton extends iButton	{		public static const _TYPE:String = "REWIND";		public function RewindButton() { }	}}

@@ -1,0 +1,1 @@
+﻿package imobile.view {	import imobile.controller.iButton;		public class ExploreButton extends iButton	{		private static const _TYPE:String = "EXPLORE";				public function ExploreButton() { }				public function get TYPE():String 		{			return _TYPE;		}				public function getInstance():void 		{					}	}}

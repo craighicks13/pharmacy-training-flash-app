@@ -1,0 +1,1 @@
+﻿package imobile.view {	import imobile.controller.iButton;		public class SessionButton extends iButton	{		public static const _TYPE:String = "SESSION";		public function SessionButton(){}	}}

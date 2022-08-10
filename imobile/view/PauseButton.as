@@ -1,0 +1,1 @@
+﻿package imobile.view {	import imobile.controller.iButton;		public class PauseButton extends iButton	{		public static const TYPE:String = "PAUSE";		public function PauseButton() { }	}}

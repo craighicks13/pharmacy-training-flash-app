@@ -1,0 +1,1 @@
+﻿package imobile.view {	import imobile.controller.iButton;		public class ShowButton extends iButton	{		public static const _TYPE:String = "SHOW";		public function ShowButton(){ }	}}

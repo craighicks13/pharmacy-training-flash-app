@@ -1,0 +1,1 @@
+﻿package imobile.view {	import imobile.controller.iButton;		public class GuideButton extends iButton	{		private static const _TYPE:String = "GUIDE";				public function GuideButton() { }				public function get TYPE():String 		{			return _TYPE;		}				public function getInstance():void 		{					}	}}

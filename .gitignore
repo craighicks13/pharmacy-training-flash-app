@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore debug folder
+bin-debug
+
+# Ignore .dropbox.attr files
+.dropbox.attr

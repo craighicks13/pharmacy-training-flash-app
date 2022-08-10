@@ -1,0 +1,1 @@
+﻿package imobile.sessions.view{	import imobile.sessions.view.ZoomMap;	import flash.display.MovieClip;		public class ZoomMapOut extends ZoomMap	{				public function ZoomMapOut() 		{			cursorID = "MagnifyOutCursor";			getInstance();		}	}	}
