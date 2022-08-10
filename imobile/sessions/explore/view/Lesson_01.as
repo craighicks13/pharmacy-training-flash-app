@@ -1,15 +1,15 @@
-package imobile.sessions.explore.view
+package imobile.sessions.explore.view 
 {
 	import imobile.sessions.controller.InteractionController;
 	import imobile.sessions.explore.controller.Messages;
 	import imobile.sessions.explore.view.LessonBase;
 	import flash.display.MovieClip;
-
+	
 	public class Lesson_01 extends LessonBase
 	{
-
+		
 		public function Lesson_01()	{ getInstance(); }
-
+		
 		public override function updateAppStatus():void
 		{
 			switch(currentFrame)
@@ -25,11 +25,11 @@ package imobile.sessions.explore.view
 				case 9:
 					Messages.getInstance().instructionMessage("viz01_05");
 					break;
-
+				
 			}
 			getCurrentFunctionality();
 		}
-
+		
 		public override function getCurrentFunctionality():void
 		{
 			_currentFrame = currentFrame;
